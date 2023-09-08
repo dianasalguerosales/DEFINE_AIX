@@ -1,4 +1,4 @@
-//EDSRIB07 JOB (BI),'BANCO INDUSTRIAL',
+//EDSRIB07 JOB (DS),'DIANA SALGUERO',
 //         CLASS=P,
 //         REGION=0M,
 //         MSGCLASS=X,

@@ -9,12 +9,12 @@
 //*********************************************************
 //PASO001  EXEC PGM=IEFBR14
 //SYSPRINT DD SYSOUT=*
-//DD1      DD DSN=EDUC.EDSR.IBMMF.BASE1(+1),
+//DD1      DD DSN=EDSR.IBMMF.BASE1(+1),
 //         DISP=(NEW,CATLG,DELETE),
 //         SPACE=(TRK,(100,100),RLSE),
 //         DCB=(LRECL=80,RECFM=FB,BLKSIZE=800,DSORG=PS)
 //*
-//DD2      DD DSN=EDUC.EDSR.IBMMF.BASE2(+1),
+//DD2      DD DSN=EDSR.IBMMF.BASE2(+1),
 //         DISP=(NEW,CATLG,DELETE),
 //         SPACE=(TRK,(100,100),RLSE),
 //         DCB=(LRECL=80,RECFM=FB,BLKSIZE=800,DSORG=PS)
